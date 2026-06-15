@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="km">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Western New Sports</title>
+
+<style>
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f5f5f5;
+}
+
+/* Navigation */
+.navbar{
+    background:#2d1597;
+    display:flex;
+    align-items:center;
+    padding:0;
+}
+
+.navbar a{
+    color:white;
+    text-decoration:none;
+    padding:20px 25px;
+    display:block;
+    font: size 12rem;;
+}
+
+.navbar a:hover{
+    background:#cc0030;
+}
+
+/* Article Container */
+.container{
+    max-width:1000px;
+    margin:20px auto;
+    background:white;
+    padding:40px;
+}
+
+.title{
+    font-size:42px;
+    color:#333;
+    line-height:1.4;
+}
+
+.date{
+    color:gray;
+    margin:20px 0;
+}
+
+.content{
+    font-size:24px;
+    line-height:1.8;
+}
+
+.article-image{
+    width:100%;
+    margin-top:20px;
+    border-radius:5px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="navbar">
+    <a href="#">Home</a>
+    <a href="#">កម្សាន្ត</a>
+    <a href="#">បច្ចេកវិទ្យា</a>
+    <a href="#">កីឡា</a>
+    <a href="#">AUTO TALK</a>
+</div>
+
+<div class="container">
+
+    <h1 class="title">
+    ការប្រកួត FIFA World Cup 2026 មានរឿងគួរអោយចាប់អារម្មណ៏3យ៉ាង....
+    </h1>
+    
+    <img src="c:\Users\User\OneDrive\Pictures\2026.jpg" alt="Photo" width="200"
+
+    <div class="date">
+        Monday,june, 2026 07:05
+    </div>
+
+    <div class="content">
+       1.ការចាប់អារម្មណ៍ទីមួយគឺសតិទៅលើជម្រើសជាតិIRANដែលត្រូវការប្រកួតជម្រើសជាតIRANនៅលើទឹកដីរដ្ឋអាមេរិកពេលប្រកួតចប់គឺត្រូវហោះទៅកាន់ស្រុកទឹកដីវិញភ្លាមៗមិនអនុញ៉ាតអោយស្នាក់នៅអាមេរិកឡើយ
+       2.គឺសហរដ្ឋអាមេរិកដែលជាម្ចាស់ផ្ទះតែងតែមានរឿងរ៉ាវជាមួយប្រជាតិដែលមានសញ្ជាតិដែលមិនត្រូវជាមួយនឹងប្រទេសរបស់ខ្លួន។
+       3.FIFA World Cup ឆ្នាំ 2026 នេះគឺមានប្រទេសបីដែលជាម្ចាស់ផ្ទះ។ដែលសហរដ្ឋអាមេរិកជាម្ចាស់ផ្ទះធំនិងពីរប្រទេសទៀតដែលមេចសេចកូនិងកាណាដាដែលជាម្ចាស់ផ្ទះអម
+
+    </div>
+
+</div>
+
+</body>
+</html>
